@@ -1,4 +1,4 @@
-🏋️‍♂️ Fitness Tracker Dashboard
+<h1>🏋️‍♂️ Fitness Tracker Dashboard</h1>
 <p align="center"> <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/Framework-Bootstrap_5-purple?style=for-the-badge&logo=bootstrap" /> <img src="https://img.shields.io/badge/Charts-Chart.js-orange?style=for-the-badge&logo=chartdotjs" /> <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" /> <img src="https://img.shields.io/badge/Auth-Firebase-yellow?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/AI-Chatbot-red?style=for-the-badge&logo=openai" /> </p> <p align="center"><sub>✨ Modern 3D-inspired fitness tracker with analytics, themes, AI, and database support ✨</sub></p>
 ✨ Features
 <p align="center"> ✔️ Log workouts <br> ✔️ Auto-update stats <br> ✔️ Interactive history & charts <br> ✔️ Motivational AI tips <br> ✔️ Dark/Light mode toggle <br> ✔️ Offline (localStorage) + Online (MongoDB/Firebase) <br> </p>
