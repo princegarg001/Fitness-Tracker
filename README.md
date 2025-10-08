@@ -3,7 +3,7 @@
 ✨ Features
 <p > ✔️ Log workouts <br> ✔️ Auto-update stats <br> ✔️ Interactive history & charts <br> ✔️ Motivational AI tips <br> ✔️ Dark/Light mode toggle <br> ✔️ Offline (localStorage) + Online (MongoDB/Firebase) <br> </p>
 📊 System Architecture
-<p align="center">
+<p >
 graph TD;
     U[👤 User] -->|Logs Data| F[🌐 Frontend];
     F -->|CRUD| API[⚡ Node.js API];
